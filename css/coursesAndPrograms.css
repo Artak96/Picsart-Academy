@@ -1,0 +1,46 @@
+.courses_and_programs {
+
+    font-family: Museo Sans;
+    font-size: 56px;
+    line-height: 70px;
+    text-align: center;
+    color: #333333;
+}
+
+.courses_and_programs_pictures {
+    justify-content: center;
+    width: 100%;
+}
+
+.pic_div {
+    display: flex;
+    justify-content: center;
+
+} 
+
+.pictures {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    text-align: center;
+    margin: 20px;
+}
+
+.pictures span {
+    font-family: Museo Sans;
+    font-size: 24px;
+    line-height: 44px;
+    color: #4A4A4A;
+    cursor: pointer;
+}
+
+a {
+    color: #1E1E1E;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.separate {
+    width: 100%;
+
+}

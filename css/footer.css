@@ -1,0 +1,33 @@
+.footer_wraper {
+    display: flex;
+    justify-content: space-between;
+    background: #ffffff;
+    padding: 3%;
+    margin-top: 5%;
+}
+
+.footer_wraper_child {
+
+    font-family: Museo Sans;
+    font-size: 22px;
+    padding-top: 1.6%;
+    color: #5E5E5E;
+    text-align: center;
+
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+       
+.icon_wraper {
+    padding-top: 1.6%;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 32px;
+    padding-left: 3%;
+    text-transform: none;
+    margin-right: 15px;
+    color: #5E5E5E;
+
+}

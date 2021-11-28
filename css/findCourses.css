@@ -1,0 +1,74 @@
+.course_looking {
+            font-family: Museo Sans;
+            font-size: 48px;
+            line-height: 70px;
+            text-align: center;
+            color: #333333;
+}
+        
+.subscribe {
+
+    font-family: Museo Sans;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #333333;
+    margin-top: -35px;
+}
+
+.subscribe_button {
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 10px;
+    line-height: 24px;
+    color: #FFDF01;
+    background: #4A4A4A;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.div_contact_input button {
+
+    margin-right: 7%;
+    margin-left: -8px;
+
+}
+
+.div_contact_input button:hover {
+
+    color: #fff;
+    border-color: #6c757d;
+}
+
+.div_contact_input {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+
+
+
+}
+
+.contact_input {
+
+    width: 18%;
+    border-radius: 5px;
+    margin-right: 15px;
+    height: 30px;
+    padding: .375rem .75rem;
+    border: 1px solid rgb(212, 212, 212);
+
+}
+
+.contact_input:focus {
+    outline: none !important;
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}

@@ -1,0 +1,47 @@
+.about_us_wraper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 454px;
+    background-color: #FFFDED;
+}
+
+.tittle {
+    font-family: Museo Sans;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    color: #333333;
+}
+
+.about_us_text {
+    text-align: center;
+    font-family: Museo Sans;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    padding-top: 2%;
+    color: #333333;
+}
+
+
+.about_us_bottom {
+    padding: .375rem .75rem;
+    margin-top: 3%;
+    color: #6c757d;
+    border: 1px solid #6c757d;
+    line-height: 1.5;
+    border-radius: .25rem;
+    font-size: 1rem;
+    background-color: #FFFDED;
+}
+
+.about_us_bottom:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    cursor: pointer;
+
+}

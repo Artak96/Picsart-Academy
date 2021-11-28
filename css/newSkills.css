@@ -1,0 +1,65 @@
+.all {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.learn {
+    margin-left: 125px;
+    font-family: Georgia, serif;
+    font-size: 67px;
+    line-height: 70px;
+    color: #1F1F33;
+    padding-top: 5%;
+
+}
+
+.welcome {
+    font-family: Georgia, serif;
+    font-size: 24px;
+    color: #1F1F33;
+    margin-left: 125px;
+    margin-top: -20px;
+}
+
+.button {
+    margin-left: 125px;
+    background: #1F1F33;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FCEECA;
+    margin-top: 5%;
+    cursor: pointer;
+    padding: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+.button:hover {
+    opacity: 0.7;
+}
+
+.img1 {
+    float: right;
+    border-radius: 50%;
+    box-shadow: rgb(255 250 217) 110px 0px 0px 12px;
+    margin-right: 65px;
+
+}
+
+
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 42%;
+}
+
+.new_skills {
+    width: 50%;
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding-right: 8px;
+    padding-left: 8px;
+}
